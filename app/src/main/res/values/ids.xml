@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_host_fragment_content_menu" type="id" />
+    <item name="Logout" type="id" />
+    <item name="aboutus" type="id" />
+    <item name="nav_slideshow" type="id" />
+    <item name="nav_gallery" type="id" />
+    <item name="nav_home" type="id" />
+</resources>

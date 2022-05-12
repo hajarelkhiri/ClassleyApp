@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421266586349",
+    "firebase_url": "https://claeyapp-default-rtdb.firebaseio.com",
+    "project_id": "claeyapp",
+    "storage_bucket": "claeyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421266586349:android:a8a47bf5e8ce8727856ae4",
+        "android_client_info": {
+          "package_name": "com.example.classleyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421266586349-n6f3k628n796gfadq58j631jku53flnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxksZuoHPu0QQuZRf9RtMlRYBEk5jZTw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421266586349-n6f3k628n796gfadq58j631jku53flnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
