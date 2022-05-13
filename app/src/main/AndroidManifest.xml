@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ClassleyApp">
         <activity
+            android:name=".adddataetu"
+            android:exported="false" />
+        <activity
             android:name=".gestion_etu"
             android:exported="false" />
         <activity

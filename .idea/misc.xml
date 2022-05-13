@@ -8,6 +8,7 @@
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/background_editpassword.xml" value="0.2115" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/background_edittext.xml" value="0.67" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_aboutus.xml" value="0.2115" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_adduser.xml" value="0.2005" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_baseline_add_moderator_24.xml" value="0.2115" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_baseline_https_24.xml" value="0.1965" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.1965" />
@@ -17,9 +18,11 @@
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_gestionprof.xml" value="0.1105" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1585" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_logout.xml" value="0.1105" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_notification.xml" value="0.2005" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_pdf.xml" value="0.2005" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1105" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_adddata.xml" value="0.19882246376811594" />
-        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_adddataetu.xml" value="0.1484375" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_adddataetu.xml" value="0.25" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_affichage_info.xml" value="0.19882246376811594" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_gestion_emploi.xml" value="0.22" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_gestion_etu.xml" value="0.10131712259371833" />
@@ -38,6 +41,7 @@
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/content_menu.xml" value="0.19972826086956522" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/dialogcontent.xml" value="0.19882246376811594" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/dialogucontentetu.xml" value="0.1484375" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/dialoguecontent1.xml" value="0.1" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/fragment_aboutus.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/fragment_fragmentaboutus.xml" value="0.19972826086956522" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/fragment_fragmenthome.xml" value="0.25" />
