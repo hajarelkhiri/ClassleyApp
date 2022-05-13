@@ -12,7 +12,7 @@ public class modeletu
         this.name = name;
         this.codeApogee = codeApogee;
         Email_institutionnel = email_institutionnel;
-        this.surl = surl;
+        this.surl =surl;
     }
 
     public String getName() {
