@@ -22,6 +22,7 @@ public class gestion_Prof extends AppCompatActivity {
     FloatingActionButton fb;
     LinearLayout l2;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,6 +43,7 @@ public class gestion_Prof extends AppCompatActivity {
                 startActivity(new Intent(getApplicationContext(),adddata.class));
             }
         });
+
 
     }
 

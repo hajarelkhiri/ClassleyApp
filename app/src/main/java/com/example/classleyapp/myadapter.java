@@ -3,7 +3,9 @@ package com.example.classleyapp;
 //pour la gestion de prof
 
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -50,7 +52,7 @@ public class myadapter  extends FirebaseRecyclerAdapter<Model,myadapter.myviewho
             public void onClick(View view) {
                 final DialogPlus dialogPlus=DialogPlus.newDialog(holder.img.getContext())
                         .setContentHolder(new ViewHolder(R.layout.dialogcontent))
-                        .setExpanded(true,1100)
+                        .setExpanded(true,1500)
                         .create();
 
                 View myview=dialogPlus.getHolderView();
@@ -147,7 +149,22 @@ public class myadapter  extends FirebaseRecyclerAdapter<Model,myadapter.myviewho
             email=(TextView)itemView.findViewById(R.id.emailtext);
             edit=(ImageView)itemView.findViewById(R.id.editicon);
             delete=(ImageView)itemView.findViewById(R.id.deleteicon);
+
+
+
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Context context=v.getContext();
+                    Intent intent=new Intent(context,UserData.class);
+                    context.startActivity(new Intent(context,UserData.class));
+                }
+            });
         }
     }
+
+
+
 }
 

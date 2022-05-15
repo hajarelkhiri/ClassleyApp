@@ -8,6 +8,7 @@
     app:cardUseCompatPadding="true">
 
     <LinearLayout
+        android:id="@+id/L2"
         android:layout_width="401dp"
         android:layout_height="165dp"
         android:orientation="vertical"
@@ -15,6 +16,7 @@
 
 
         <LinearLayout
+            android:id="@+id/item1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal">

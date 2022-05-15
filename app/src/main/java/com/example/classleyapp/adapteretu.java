@@ -1,7 +1,9 @@
 package com.example.classleyapp;
 
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -144,6 +146,16 @@ public class adapteretu  extends FirebaseRecyclerAdapter<modeletu,adapteretu.myv
    email_institu=(TextView)itemView.findViewById(R.id.email_institutext);
    edit=(ImageView)itemView.findViewById(R.id.editicon);
    delete=(ImageView)itemView.findViewById(R.id.deleteicon);
+
+
+   itemView.setOnClickListener(new View.OnClickListener() {
+    @Override
+    public void onClick(View v) {
+     Context context=v.getContext();
+     Intent intent=new Intent(context,UserData.class);
+     context.startActivity(new Intent(context,UserDataetu1.class));
+    }
+   });
 
   }
 

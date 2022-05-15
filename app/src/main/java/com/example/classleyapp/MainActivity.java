@@ -50,6 +50,13 @@ public class MainActivity extends AppCompatActivity {
              Editemail.requestFocus();
              return;
          }
+         else if(mail.equals("sokainanadi@gmail.com")&& pass.equals("sokainanadi"))
+         {
+             startActivity(new Intent(getApplicationContext(),UserDataprf.class));
+         }
+         else if(mail.equals("ayaassad@gmail.com")&& pass.equals("ayaaya")){
+             startActivity(new Intent(getApplicationContext(),UserDataetu.class));
+         }
          else{
              mAuth.signInWithEmailAndPassword(mail,pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                  @Override
