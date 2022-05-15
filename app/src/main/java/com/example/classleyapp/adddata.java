@@ -1,8 +1,5 @@
 package com.example.classleyapp;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -10,6 +7,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
@@ -36,7 +36,7 @@ public class adddata extends AppCompatActivity
         purl=(EditText)findViewById(R.id.add_purl);
 
      //   back=(Button)findViewById(R.id.add_back);
-        ic_back=(ImageView)findViewById(R.id.ic_back) ;
+        ic_back=(ImageView)findViewById(R.id.ic_back1) ;
 
         ic_back.setOnClickListener(new View.OnClickListener() {
             @Override

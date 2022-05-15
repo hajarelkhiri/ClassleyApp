@@ -36,7 +36,7 @@ public class adddataetu extends AppCompatActivity {
         surl=(EditText)findViewById(R.id.add_purl);
 
         //   back=(Button)findViewById(R.id.add_back);
-        ic_back=(ImageView)findViewById(R.id.ic_back) ;
+        ic_back=(ImageView)findViewById(R.id.ic_back1) ;
 
         ic_back.setOnClickListener(new View.OnClickListener() {
             @Override

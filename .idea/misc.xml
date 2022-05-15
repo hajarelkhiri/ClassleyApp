@@ -18,6 +18,7 @@
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_gestionprof.xml" value="0.1105" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1585" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_logout.xml" value="0.1105" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_menu.xml" value="0.111" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_notification.xml" value="0.2005" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/ic_pdf.xml" value="0.2005" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1105" />
@@ -29,11 +30,16 @@
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_gestion_etu2.xml" value="0.1" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_gestion_prof.xml" value="0.18" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_gestiondeprof.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_gmail.xml" value="0.15" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_home2.xml" value="0.25" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_home2.xml" value="0.33" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_menu.xml" value="0.19972826086956522" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_singlerow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_user_data.xml" value="0.22" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_user_dataetu.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_user_dataetu1.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_user_dataprf.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/activity_view_allpdf_files.xml" value="0.18" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/app_bar_home.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/layout/app_bar_menu.xml" value="0.19010416666666666" />
@@ -67,7 +73,9 @@
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/activity_menuactivity_drawer.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/buttom_navigation_menu.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/menu.xml" value="0.18" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/menu19.xml" value="0.1" />
+        <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/popup_menu.xml" value="0.1" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/menu/searchmenu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrateur/AndroidStudioProjects/ClassleyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2115" />
       </map>
@@ -78,5 +86,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.15" />
+      </ProjectState>
+    </option>
   </component>
 </project>

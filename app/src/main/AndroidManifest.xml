@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
@@ -12,6 +13,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ClassleyApp">
+        <activity
+            android:name=".UserDataetu1"
+            android:exported="false" />
+        <activity
+            android:name=".GmailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UserDataetu"
+            android:exported="false" />
+        <activity
+            android:name=".UserDataprf"
+            android:exported="false" />
+        <activity
+            android:name=".UserData"
+            android:exported="false" />
         <activity
             android:name=".adddataetu"
             android:exported="false" />
